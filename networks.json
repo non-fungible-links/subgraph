@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "nflinks": {
+      "address": "0x115cfc32db6f265ab91a6d6e2e7cd94aed56a959",
+      "startBlock": 9910246
+    }
+  }
+}
